@@ -15,19 +15,18 @@
 **[Telco_Customer_Churn_Dataset(3).csv - SaiKet Systems](https://drive.google.com/file/d/1bHNFyCPHPhM3ma6EYXWerRvS101GUQZp/view?usp=drive_link)**
 
 
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%201-%20Data%20Preparation.png)
 
-# Task 1: Data Preparation
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%202%20Exploratory%20Data%20Analysis.png)
 
-## PROJECT DESCRIPTION:
-In this task, you will be responsible for loading the dataset and conducting an initial exploration. Handle missing values, and if necessary, convert categorical variables into numerical representations. Furthermore, split the dataset into training and testing sets for subsequent model evaluation.
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%203%20Customer%20Segmentation.png)
 
-## Skills
-- Data loading
-- Data exploration
-- Handling missing values
-- Data preprocessing
-- Categorical variable encoding,
-- Dataset splitting
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%204%20Churn%20Prediction%20Model.png)
+
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%205%20Model%20Evaluation%20and%20Interpretation.png)
+
+![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%206%20Business%20Recommendations.png)
+
 
 
 

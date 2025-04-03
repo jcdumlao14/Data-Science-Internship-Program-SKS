@@ -17,6 +17,10 @@
 
 ![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%201-%20Data%20Preparation.png)
 
+
+## [My Notebook Task 1 - Data Preparation](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_1_Data_Preparation.ipyn)
+
+
 ![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%202%20Exploratory%20Data%20Analysis.png)
 
 ![image](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task%203%20Customer%20Segmentation.png)

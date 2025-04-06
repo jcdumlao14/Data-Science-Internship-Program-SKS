@@ -50,7 +50,7 @@ Calculate and visually represent the overall churn rate. Explore customer distri
 
 ✅ Churn rate calculation
 
-## [My Notebook Task 1 - Data Preparation](http)
+## [My Notebook Task 1 - Exploratory Data Analysis (EDA)](http)
 ## [🎥 Watch My Second internship task video on YouTube!](htt)
 
 

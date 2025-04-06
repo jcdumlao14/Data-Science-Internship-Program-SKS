@@ -13,7 +13,7 @@
 
 
 ## [My Notebook Task 1 - Data Preparation](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_1_Data_Preparation.ipyn)
-## [🎥 Watch my first internship task video on YouTube!](https://youtu.be/gQU-FuoHpf0)
+## [🎥 Watch My First internship task video on YouTube!](https://youtu.be/gQU-FuoHpf0)
 
 # 🔹 Task 1: Data Preparation
 
@@ -33,6 +33,25 @@ In this task, I loaded the dataset and conducted an initial exploration. I handl
 ✅ Dataset splitting
 
 
+# 🔹 Task 2: Exploratory Data Analysis (EDA)
+
+## Description:
+
+Calculate and visually represent the overall churn rate. Explore customer distribution by gender, partner status, and dependent status. Analyze tenure distribution and its relation with churn. Investigate how churn varies across different contract types and payment methods.
+
+## Skills Gained:
+✅ Data visualization
+
+✅ statistical analysis
+
+✅ Exploratory data analysis
+
+✅ Understanding of customer demographic variables
+
+✅ Churn rate calculation
+
+## [My Notebook Task 1 - Data Preparation](http)
+## [🎥 Watch My Second internship task video on YouTube!](htt)
 
 
 

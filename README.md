@@ -37,7 +37,7 @@ In this task, I loaded the dataset and conducted an initial exploration. I handl
 
 ## Description:
 
-Calculate and visually represent the overall churn rate. Explore customer distribution by gender, partner status, and dependent status. Analyze tenure distribution and its relation with churn. Investigate how churn varies across different contract types and payment methods.
+In this task, I calculated and visually represented the overall churn rate. I explored customer distribution by gender, partner status, and dependent status. Additionally, I analyzed tenure distribution and its relationship with churn, and examined how churn varies across different contract types and payment methods.
 
 ## Skills Gained:
 ✅ Data visualization
@@ -46,7 +46,7 @@ Calculate and visually represent the overall churn rate. Explore customer distri
 
 ✅ Exploratory data analysis
 
-✅ Understanding of customer demographic variables
+✅ Understanding of customer demographic 
 
 ✅ Churn rate calculation
 

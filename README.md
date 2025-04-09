@@ -63,7 +63,9 @@ In this task, I segmented customers based on tenure, monthly charges, and contra
 ✅ Customer Segmentation Techniques
 
 ✅ Understanding Customer Behavior
+
 ✅ Churn Analysis Within Segments
+
 ✅ Identifying High-Value Customers
 
 ## [Task 3: Customer Segmentation](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_3_Customer_Segmentation.ipynb)

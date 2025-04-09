@@ -66,7 +66,7 @@ In this task, I segmented customers based on tenure, monthly charges, and contra
 ✅ Churn Analysis Within Segments
 ✅ Identifying High-Value Customers
 
-## [Task 3: Customer Segmentation](h)
+## [Task 3: Customer Segmentation](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_3_Customer_Segmentation.ipynb)
 ## [🎥 Watch My third internship task video on YouTube!]( )
 
 

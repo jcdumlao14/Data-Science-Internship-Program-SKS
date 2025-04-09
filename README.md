@@ -53,7 +53,7 @@ In this task, I calculated and visually represented the overall churn rate. I ex
 ## [🎥 Watch My Second internship task video on YouTube!]( https://youtu.be/KkqsrAgcd6A)
 
 
-#🔹 Task 3: Customer Segmentation
+# 🔹 Task 3: Customer Segmentation
 
 ## Description:
 

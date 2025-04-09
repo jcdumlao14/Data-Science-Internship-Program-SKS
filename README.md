@@ -50,8 +50,24 @@ In this task, I calculated and visually represented the overall churn rate. I ex
 ✅ Churn rate calculation
 
 ## [Task 2 - Exploratory Data Analysis (EDA)](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_2_Exploratory_Data_Analysis_(EDA).ipynb)
-## [🎥 Watch My Second internship task video on YouTube!](htt)
+## [🎥 Watch My Second internship task video on YouTube!]( https://youtu.be/KkqsrAgcd6A)
 
+
+#🔹 Task 3: Customer Segmentation
+
+## Description:
+
+In this task, I segmented customers based on tenure, monthly charges, and contract type. I analyzed churn rates within each segment and identified high-value customers who are at risk of churning and might need special attention.
+
+## Skills Gained:
+✅ Customer Segmentation Techniques
+
+✅ Understanding Customer Behavior
+✅ Churn Analysis Within Segments
+✅ Identifying High-Value Customers
+
+## [Task 3: Customer Segmentation](h)
+## [🎥 Watch My third internship task video on YouTube!]( )
 
 
 

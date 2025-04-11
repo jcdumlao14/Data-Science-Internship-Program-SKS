@@ -67,7 +67,7 @@ In this task, I segmented customers based on tenure, monthly charges, and contra
 
 📁 **[View Task 3 Code on GitHub](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_3_Customer_Segmentation.ipynb)**
 
-🎥 **[Watch Task 3 Video on YouTube]( )**
+🎥 **[Watch Task 3 Video on YouTube](https://youtu.be/s5FIeTx0Uyc)**
 
 
 

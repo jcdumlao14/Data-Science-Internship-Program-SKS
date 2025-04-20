@@ -86,6 +86,9 @@ In this task, I selected suitable machine learning algorithms such as logistic r
  
 📁 **[View Task 4 Code on GitHub](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_4_Churn_Prediction_Model.ipynb)**
 
+🎥 **[Watch Task 4 Video on YouTube](https://youtu.be/36UzNrthTUs)**
+
+
 ## 🔹 Task 5: Model Evaluation and Interpretation
 
 ### Description:

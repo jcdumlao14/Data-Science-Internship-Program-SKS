@@ -29,7 +29,7 @@ In this task, I loaded the dataset and conducted an initial exploration. I handl
 ✅ Data preprocessing  
 ✅ Train-test data splitting
 
-📁 **[View Task 1 Code  on GitHub](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_1_Data_Preparation.ipyn)**
+📁 **[View Task 1 Code  on GitHub](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_1_Data_Preparation.ipynb)**
 
 🎥 **[Watch Task 1 Video on YouTube](https://youtu.be/gQU-FuoHpf0)**
 

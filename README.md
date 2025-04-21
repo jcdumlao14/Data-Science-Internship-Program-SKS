@@ -50,7 +50,7 @@ In this task, I calculated and visually represented the overall churn rate. I ex
 
  📁 **[View Task 2 Code on GitHub](https://github.com/jcdumlao14/Data-Science-Internship-Program-SKS/blob/main/Task_2_Exploratory_Data_Analysis_(EDA).ipynb)**
 
- 🎥 **[Watch Task 2 Video on YouTube]( https://youtu.be/KkqsrAgcd6A)**
+ 🎥 **[Watch Task 2 Video on YouTube](https://youtu.be/KkqsrAgcd6A)**
 
 ## 🔹 Task 3: Customer Segmentation
 
